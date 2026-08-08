@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/Mansi-desai02/leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mansi-desai02/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mansi-desai02/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0704-binary-search](https://github.com/Mansi-desai02/leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0035-search-insert-position](https://github.com/Mansi-desai02/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Mansi-desai02/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Mansi-desai02/leetcode/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Mansi-desai02/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
