@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mansi-desai02/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mansi-desai02/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mansi-desai02/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Mansi-desai02/leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,9 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mansi-desai02/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Mansi-desai02/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mansi-desai02/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
